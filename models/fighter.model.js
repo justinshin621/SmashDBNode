@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
 
 const schema = new Schema({
         name: { type: String, required: true },
-        gsp: { type: String, default: 'N/A' },
+        gsp: { type: Number, default: 'N/A' },
         createdBy: { type: Schema.Types.ObjectId, ref: 'User' },
         createdDate: { type: Date, default: Date.now },
         isFavorite: {type: Boolean, default: false},
