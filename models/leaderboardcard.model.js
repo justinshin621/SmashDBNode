@@ -7,6 +7,7 @@ const schema = new Schema({
         first: { type: String, required: true },
         last: { type: String, required: true },
         avggsp: { type: String, default: 0},
+        favoriteFighter: {type: String, default: 'N/A'}
     }
 );
 
