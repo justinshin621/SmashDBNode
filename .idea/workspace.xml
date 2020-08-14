@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Changing models">
+      <change afterPath="$PROJECT_DIR$/controllers/fighter.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/fighter.router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/fighter.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/fighter.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/leaderboardcard.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/leaderboardcard.model.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597355800728</updated>
       <workItem from="1597355801786" duration="4277000" />
-      <workItem from="1597420933175" duration="7416000" />
+      <workItem from="1597420933175" duration="8553000" />
     </task>
     <task id="LOCAL-00001" summary="Changing models">
       <created>1597427909552</created>
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597427919407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changing models">
+      <created>1597435416283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597435416284</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,9 +153,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1515" height="242" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597373961355" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597427923492">
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597435423593">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597427923492" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597435423593" />
   </component>
 </project>
