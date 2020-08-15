@@ -1,6 +1,5 @@
 const db = require('../_helpers/database');
-const {Fighter} = require("../_helpers/database");
-const fighterdb = db.Fighter;
+const Fighter = db.Fighter;
 
 module.exports = {
     addFighter
@@ -8,7 +7,7 @@ module.exports = {
 
 
 async function addFighter(fighter, userid){
-    if(await fighterdb.findOne({ createdyBy: userid, name: fighter.name})){
+    if(await Fighter.findOne({ createdyBy: userid, name: fighter.name})){
         throw 'Fighter info already exists for this user';
     }
     else if(!username){

@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Changing models">
+    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Trying to fix Backend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_helpers/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/_helpers/database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/fighter.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/fighter.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/fighter.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/fighter.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/fighter.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/fighter.router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/fighter.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/fighter.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +52,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
-    <property name="last_opened_file_path" value="$USER_HOME$/cs3754_summer2-master-HW4node_starter/HW4node_starter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SmashDBNode - Copy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597435416284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Trying to fix Backend">
+      <created>1597502832936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597502832936</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +131,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changing models" />
     <MESSAGE value="idk what even changed but i have to do this to pull" />
-    <option name="LAST_COMMIT_MESSAGE" value="idk what even changed but i have to do this to pull" />
+    <MESSAGE value="Trying to fix Backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix Backend" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597356144093">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.920@0.0.1536.920" timestamp="1597356144093" />
-    <state x="610" y="215" key="FileChooserDialogImpl" timestamp="1597453661066">
-      <screen x="0" y="0" width="1707" height="920" />
+    <state x="549" y="215" key="FileChooserDialogImpl" timestamp="1597503027038">
+      <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1597420938114" />
+    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1597503027038" />
     <state x="610" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1597453661066" />
     <state x="634" y="358" key="Github.ShareDialog" timestamp="1597359915175">
       <screen x="0" y="0" width="1536" height="920" />
@@ -165,9 +168,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1515" height="242" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597373961355" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597435423593">
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597502854588">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597435423593" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597502854588" />
   </component>
 </project>
