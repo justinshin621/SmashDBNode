@@ -2,7 +2,9 @@ const db = require('../_helpers/database');
 const {Fighter} = require("../_helpers/database");
 const fighterdb = db.Fighter;
 
-module.exports = {addFighter}
+module.exports = {
+    addFighter
+};
 
 
 async function addFighter(fighter, userid){
@@ -16,6 +18,7 @@ async function addFighter(fighter, userid){
     let newrecord = fighter;
     fighter.createdBy = userid;
     fighter.createdDate = Date.now();
+    console.log(newrecord);
 
     dbrecord = new Fighter(newrecord);
     await dbrecord.save();

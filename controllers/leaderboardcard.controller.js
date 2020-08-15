@@ -1,3 +1,3 @@
-const leaderservice = require('../service/user.service');
+const leaderservice = require('../services/user.service');
 
 module.exports = {};

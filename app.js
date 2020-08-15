@@ -21,7 +21,8 @@ app.use(cors());
 app.use(jwt());
 
 app.use('/user', require('./routes/user.router'));
-
+app.use('/fighter', require('./routes/fighter.router'));
+app.use('/leaderboardcard', require('./routes/leaderboardcard.router'));
 app.use(errorHandler);
 
 
