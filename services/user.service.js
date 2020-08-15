@@ -3,6 +3,7 @@ const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const db = require('../_helpers/database');
 const User = db.User;
+const LBCard = db.LBCard;
 
 
 module.exports = {
@@ -56,6 +57,18 @@ async function addUser(userParam) {
 
     // save user
     await user.save();
+
+    //For adding LBCards when User is made...
+    let newcard = {
+        username: userParam.username,
+        first: userParam.firstName,
+        last: userParam.lastName
+    }
+
+    dbrecord = new LBCard(newcard);
+
+    //save lbcard
+    await dbrecord.save();
 
 }
 
