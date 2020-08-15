@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Changing models">
-      <change afterPath="$PROJECT_DIR$/controllers/fighter.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/fighter.router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/fighter.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/fighter.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/fighter.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/fighter.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/leaderboardcard.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/leaderboardcard.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/fighter.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/fighter.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +51,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW5angular" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cs3754_summer2-master-HW4node_starter/HW4node_starter" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -67,7 +71,10 @@
       <recent name="C:\Users\justi\Downloads\SmashDBNode" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="" />
@@ -115,20 +122,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changing models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing models" />
+    <MESSAGE value="idk what even changed but i have to do this to pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk what even changed but i have to do this to pull" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597356144093">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.920@0.0.1536.920" timestamp="1597356144093" />
-    <state x="549" y="215" key="FileChooserDialogImpl" timestamp="1597420938114">
-      <screen x="0" y="0" width="1536" height="920" />
+    <state x="610" y="215" key="FileChooserDialogImpl" timestamp="1597453661066">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1597420938114" />
+    <state x="610" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1597453661066" />
     <state x="634" y="358" key="Github.ShareDialog" timestamp="1597359915175">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
