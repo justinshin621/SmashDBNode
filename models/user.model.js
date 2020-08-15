@@ -10,7 +10,7 @@ const schema = new Schema({
         lastName: { type: String, required: true },
         createdDate: { type: Date, default: Date.now },
         hasMain: {type: Boolean, default: false}
-    }
+        }
 );
 
 schema.set('toJSON', { virtuals: true });

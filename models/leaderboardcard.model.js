@@ -8,7 +8,8 @@ const schema = new Schema({
         last: { type: String, required: true },
         avggsp: { type: Number, default: 0},
         topgsp: {type: Number, default: 0},
-        favoriteFighter: {type: String, default: ''}
+        favoriteFighter: {type: String, default: ''},
+        isElite: {type: Boolean, default: false}
     }
 );
 
