@@ -4,6 +4,6 @@ const fighterController = require('../controllers/fighter.controller');
 
 router.post('/submit/:username', fighterController.submit);
 router.post('/edit/:username', fighterController.edit);
-router.delete('/:date/:username', fighterController.delete);
+router.delete('/:date/:username', fighterController.deleteFighter);
 
 module.exports = router;

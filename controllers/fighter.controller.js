@@ -8,6 +8,7 @@ module.exports = {
 
 function submit(req, res, next) {
     console.log(req.body);
+    console.log(req.params.username);
 
     fighterService.addFighter(req.body, req.params.sub, req.params.username)
         .then(() => res.json({}))

@@ -14,9 +14,6 @@ async function addFighter(fighter, userid, username){
     if(await Fighter.findOne({ createdyBy: userid, name: fighter.name})){
         throw 'Fighter info already exists for this user';
     }
-    else if(!username){
-        throw 'Username problem';
-    }
 
     let newrecord = fighter;
     fighter.createdBy = userid;
