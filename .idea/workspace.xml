@@ -19,13 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Adding TOPGSP to LBCard Model">
+    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="LBCard backend complete (Except changing its values when adding/editing fighters)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/leaderboardcard.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/leaderboardcard.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/leaderboardcard.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/leaderboardcard.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/leaderboardcard.router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/leaderboardcard.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/leaderboardcard.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/user.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/fighter.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/fighter.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/fighter.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/fighter.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/fighter.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/fighter.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597512328060</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="LBCard backend complete (Except changing its values when adding/editing fighters)">
+      <created>1597514901180</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597514901180</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +163,8 @@
     <MESSAGE value="Trying to fix Backend" />
     <MESSAGE value="Fixing Fighter Model" />
     <MESSAGE value="Adding TOPGSP to LBCard Model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding TOPGSP to LBCard Model" />
+    <MESSAGE value="LBCard backend complete (Except changing its values when adding/editing fighters)" />
+    <option name="LAST_COMMIT_MESSAGE" value="LBCard backend complete (Except changing its values when adding/editing fighters)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597506881877">
@@ -197,9 +204,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1515" height="242" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597373961355" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597512331513">
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597514906395">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597512331513" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597514906395" />
   </component>
 </project>
