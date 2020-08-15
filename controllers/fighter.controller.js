@@ -3,15 +3,23 @@ const fighterService = require('../services/fighter.service');
 module.exports = {
     submit,
     edit,
-    deleteFighter
+    deleteFighter,
+    getFighters
 };
 
 function submit(req, res, next) {
     console.log(req.body);
     console.log(req.params.username);
 
-    fighterService.addFighter(req.body, req.params.sub, req.params.username)
+    fighterService.addFighter(req.body, req.user.sub, req.params.username)
         .then(() => res.json({}))
+        .catch(err => next(err));
+}
+
+function getFighters(req, res, next) {
+
+    fighterService.getFighters()
+        .then(fighters => res.json(fighters))
         .catch(err => next(err));
 }
 

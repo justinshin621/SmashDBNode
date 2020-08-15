@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Backend stuff">
+    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Backend fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/fighter.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/fighter.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/fighter.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/fighter.router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/fighter.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/fighter.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597524017035</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Backend fix">
+      <created>1597524272672</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597524272672</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +178,8 @@
     <MESSAGE value="Adding TOPGSP to LBCard Model" />
     <MESSAGE value="LBCard backend complete (Except changing its values when adding/editing fighters)" />
     <MESSAGE value="Backend stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Backend stuff" />
+    <MESSAGE value="Backend fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backend fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597506881877">
@@ -210,9 +219,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1515" height="242" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597373961355" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597524022321">
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1597524276553">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597524022321" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1597524276553" />
   </component>
 </project>
