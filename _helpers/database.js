@@ -8,3 +8,4 @@ module.exports = {
     Fighter: require('../models/fighter.model'),
     LBCard: require('../models/leaderboardcard.model')
 };
+
