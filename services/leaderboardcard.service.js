@@ -8,6 +8,6 @@ module.exports = {
 
 async function getAllCards(){
 
-    return await LBCards.find();
+    return await LBCards.find().sort({avggsp: -1});
 
 }

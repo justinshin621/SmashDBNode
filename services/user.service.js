@@ -10,7 +10,8 @@ module.exports = {
     authenticate,
     getAllUsers,
     getByUsername,
-    addUser
+    addUser,
+    changeMain
 }
 
 async function authenticate({ username, password }) {
@@ -37,6 +38,13 @@ async function getAllUsers() {
 async function getByUsername(username) {
 
     return await User.find({username:username});
+}
+
+async function changeMain(hasMain, userid) {
+
+    console.log(hasMain);
+    let user = await Fighter.find({createdBy: userid, hasMain: true})
+    await User.updateOne({_id: userid}, {$set: {hasMain}});
 }
 
 async function addUser(userParam) {

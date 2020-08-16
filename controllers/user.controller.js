@@ -4,7 +4,8 @@ const userService = require('../services/user.service')
 module.exports = {
     authenticate,
     getAllUsers,
-    register
+    register,
+    changeMain
 };
 
 
@@ -25,6 +26,14 @@ function getAllUsers(req, res, next) {
 function register(req, res, next) {
 
    userService.addUser(req.body)
+        .then(() => res.json({}))
+        .catch(err => next(err));
+}
+
+function changeMain(req, res, next) {
+
+
+    userService.changeMain(req.params.hasMain, req.user.sub)
         .then(() => res.json({}))
         .catch(err => next(err));
 }
