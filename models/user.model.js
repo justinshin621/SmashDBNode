@@ -9,8 +9,9 @@ const schema = new Schema({
         firstName: { type: String, required: true },
         lastName: { type: String, required: true },
         createdDate: { type: Date, default: Date.now },
-        hasMain: {type: Boolean, default: false}
-        }
+        hasMain: {type: Boolean, default: false},
+        favoriteFighter: {type: String, default: ''}
+}
 );
 
 schema.set('toJSON', { virtuals: true });

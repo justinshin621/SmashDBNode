@@ -8,8 +8,6 @@ module.exports = {
 };
 
 function submit(req, res, next) {
-    console.log(req.body);
-    console.log(req.params.username);
 
     fighterService.addFighter(req.body, req.user.sub, req.params.username)
         .then(() => res.json({}))
@@ -24,8 +22,6 @@ function getFighters(req, res, next) {
 }
 
 function edit(req, res, next) {
-    console.log(req.body);
-    console.log(req.params.username);
 
     fighterService.edit(req.body, req.user.sub, req.params.username)
         .then(() => res.json({}))
@@ -34,10 +30,8 @@ function edit(req, res, next) {
 
 
 function deleteFighter(req, res, next) {
-    console.log(req.params.date);
-    console.log(req.params.username);
 
     fighterService.deleteFighter(req.params.date, req.user.sub, req.params.username)
-        .then(() => res.json({}))
+        .then(resp => res.send(resp))
         .catch(err => next(err));
 }
