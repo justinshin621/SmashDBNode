@@ -10,7 +10,7 @@ const bodyParser = require('body-parser');
 // Our JWT logic. Uses express-jwt which is a middleware that validates JsonWebTokens and sets req.user.
 const jwt = require('./_helpers/jwt');
 
-
+const path = require('path');
 // Our error handler
 const errorHandler = require('./_helpers/error-handler');
 
