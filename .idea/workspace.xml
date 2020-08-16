@@ -21,12 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Add and GSP complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/fighter.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/fighter.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/leaderboardcard.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/leaderboardcard.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/leaderboardcard.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/leaderboardcard.router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/fighter.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/fighter.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/user.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
       <recent name="C:\Users\justi\Downloads\SmashDBNode" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>

@@ -52,7 +52,7 @@ async function addFighter(fighter, userid, username) {
         avggsp /= count;
     }
 
-    console.log(username);
+    //console.log(username);
 
     if (topgsp >= 7000000) {
         await LBCard.updateOne({username}, {$set: {isElite: true}});

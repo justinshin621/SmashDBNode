@@ -8,7 +8,7 @@ module.exports = {
 };
 
 function submit(req, res, next) {
-    console.log(req.body);
+    console.log(req.user);
     console.log(req.params.username);
 
     fighterService.addFighter(req.body, req.user.sub, req.params.username)
