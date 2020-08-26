@@ -6,7 +6,7 @@ A Web Application that tracks GSPs of every created user within the server from 
 
 Run `node app.js` for a deployed server. Navigate to `http://localhost:3030/`. The app will automatically reload if you change any of the source files.
 
-# FrontEnd
+# Backend
 
 This contains only the backend of SmashDB with Express with NodeJS. To view client side code direct to SmashDBAngular Project. https://github.com/justinshin621/SmashDBAngular
 
