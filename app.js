@@ -14,7 +14,7 @@ const path = require('path');
 // Our error handler
 const errorHandler = require('./_helpers/error-handler');
 
-app.use('/', express.static(path.join(__dirname+'../../SmashDBAngular/dist/HW2')));
+app.use('/', express.static(path.join(__dirname+'/dist/SmashDB')));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cors());

@@ -19,9 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="attempted filter">
+    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Justin All Done">
+      <change afterPath="$PROJECT_DIR$/images/Leaderboard.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/MyGSPs.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/3rdpartylicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/3rdpartylicenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/main-es2015.b644da548e937fc60c20.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/main-es2015.b644da548e937fc60c20.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/main-es5.953523cc7e512a61c4df.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/main-es5.953523cc7e512a61c4df.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/polyfills-es2015.5a2f2b4e7ebaa5641eaf.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/polyfills-es2015.5a2f2b4e7ebaa5641eaf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/polyfills-es5.c82f9e66739a6da8382c.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/polyfills-es5.c82f9e66739a6da8382c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/runtime-es2015.6fc25edd8213355d8d60.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/runtime-es2015.6fc25edd8213355d8d60.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/runtime-es5.1375ccab199dabc5ab5a.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/runtime-es5.1375ccab199dabc5ab5a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HW2/styles.d4cb1cc4b8522f142fde.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/styles.d4cb1cc4b8522f142fde.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +51,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g3us3qbo6rZ9KQgEsu53YDrQPI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SmashDBAngular" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +81,7 @@
       <recent name="C:\Users\justi\Downloads\SmashDBNode" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,6 +94,9 @@
       <updated>1597355800728</updated>
       <workItem from="1597355801786" duration="4277000" />
       <workItem from="1597420933175" duration="8553000" />
+      <workItem from="1597722278402" duration="709000" />
+      <workItem from="1597856255236" duration="1782000" />
+      <workItem from="1598407424350" duration="1214000" />
     </task>
     <task id="LOCAL-00001" summary="Changing models">
       <created>1597427909552</created>
@@ -183,6 +201,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Changing models" />
     <MESSAGE value="idk what even changed but i have to do this to pull" />
     <MESSAGE value="Trying to fix Backend" />
@@ -204,10 +223,10 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="93" y="93" width="1350" height="734" key="DiffContextDialog/0.0.1536.920@0.0.1536.920" timestamp="1597506901777" />
-    <state x="610" y="215" key="FileChooserDialogImpl" timestamp="1597551208271">
-      <screen x="0" y="0" width="1707" height="920" />
+    <state x="549" y="215" key="FileChooserDialogImpl" timestamp="1598408332351">
+      <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1597503027038" />
+    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1598408332351" />
     <state x="610" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1597551208271" />
     <state x="634" y="358" key="Github.ShareDialog" timestamp="1597359915175">
       <screen x="0" y="0" width="1536" height="920" />
