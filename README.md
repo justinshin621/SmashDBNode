@@ -4,7 +4,7 @@ A Web Application that tracks GSPs of every created user within the server from 
 
 # Deploy Site
 
-Run `node app.js` for a deployed server. Navigate to `http://localhost:3030/`. The app will automatically reload if you change any of the source files.
+Run `node app.js` for a deployed site. Navigate to `http://localhost:3030/`. The app will automatically reload if you change any of the source files.
 
 # Backend
 
