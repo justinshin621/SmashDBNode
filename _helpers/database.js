@@ -1,7 +1,6 @@
 const config = require('../config.json');
 const mongoose = require('mongoose');
-const uri = "mongodb+srv://jshin:junyoung@smashcluster.nhimm.mongodb.net/SmashDB?retryWrites=true&w=majority";
-mongoose.connect(uri, { useCreateIndex: true, useNewUrlParser: true });
+mongoose.connect(process.env.MONGODB_URI || config.connectionString, { useCreateIndex: true, useNewUrlParser: true });
 //mongoose.Promise = global.Promise;
 
 module.exports = {

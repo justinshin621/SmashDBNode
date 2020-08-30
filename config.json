@@ -1,5 +1,5 @@
 {
 
     "secret": "a secret that no one should guess",
-    "connectionString": "mongodb://localhost/project"
+    "connectionString": "mongodb+srv://jshin:junyoung@smashcluster.nhimm.mongodb.net/SmashDB?retryWrites=true&w=majority"
 }
