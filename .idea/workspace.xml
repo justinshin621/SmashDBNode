@@ -86,7 +86,7 @@
       <workItem from="1597856255236" duration="1782000" />
       <workItem from="1598407424350" duration="2324000" />
       <workItem from="1598565492701" duration="5777000" />
-      <workItem from="1598735907928" duration="10301000" />
+      <workItem from="1598735907928" duration="10602000" />
     </task>
     <task id="LOCAL-00001" summary="Changing models">
       <created>1597427909552</created>
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598808019067</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Deployment">
+      <created>1598808497410</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1598808497410</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,9 +342,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1515" height="242" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597373961355" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598808023183">
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598808501754">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1598808023183" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1598808501754" />
   </component>
 </project>
