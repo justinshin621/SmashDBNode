@@ -9,11 +9,11 @@ A Web Application that tracks GSPs of every created user within the server from 
 
 Allows each user to submit a GSP out of the 15 fighters.
 
-Has a Leaderboard that tracks the Average GSP and Top GSP of each user as well as a favorite fighter if they have selected one.
+Has a Leaderboard that tracks the Average GSP and Top GSP of each user as well as a favorite fighter if they have selected one. (The current user is highlighted in grey)
 
 ![](/images/Leaderboard.PNG)
 
-Allows each user to edit only their own fighters that they've submitted.
+Allows each user to edit/delete only their own fighters that they've submitted.
 
 ![](/images/Edit.PNG)
 
