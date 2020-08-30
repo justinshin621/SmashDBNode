@@ -27,10 +27,9 @@ app.use('/fighter', require('./routes/fighter.router'));
 app.use('/lbcard', require('./routes/leaderboardcard.router'));
 app.use(errorHandler);
 
-process.env.NODE_ENV = config.environment;
 
 // start server
-const port = process.env.NODE_ENV === 'production' ? (process.env.PORT || 80) : 3030;
+const port = process.env.NODE_ENV === 'production' ? (process.env.PORT || 80) : 4000;
 app.listen(port, function () {
   console.log('Server listening on port ' + port);
 });
