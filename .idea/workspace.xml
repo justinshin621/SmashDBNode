@@ -20,38 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Deployment">
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/3rdpartylicenses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/main-es2015.d400e078315b51d776fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/main-es5.5717d6179ac644628940.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/polyfills-es2015.5a2f2b4e7ebaa5641eaf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/polyfills-es5.c82f9e66739a6da8382c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/runtime-es2015.6fc25edd8213355d8d60.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/runtime-es5.1375ccab199dabc5ab5a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/SmashDB/styles.d4cb1cc4b8522f142fde.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SmashDB/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/main-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/main-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/main-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/main-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/polyfills-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/polyfills-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/polyfills-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/polyfills-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/runtime-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/runtime-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/runtime-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/runtime-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/styles-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/styles-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/styles-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/styles-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/vendor-es2015.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/vendor-es2015.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/vendor-es5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/SmashDB/vendor-es5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +90,7 @@
       <workItem from="1597856255236" duration="1782000" />
       <workItem from="1598407424350" duration="2324000" />
       <workItem from="1598565492701" duration="5777000" />
-      <workItem from="1598735907928" duration="4821000" />
+      <workItem from="1598735907928" duration="5830000" />
     </task>
     <task id="LOCAL-00001" summary="Changing models">
       <created>1597427909552</created>
@@ -268,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598752682367</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Deployment">
+      <created>1598761368660</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1598761368660</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,9 +318,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1515" height="242" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597373961355" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598752686315">
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598761372590">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1598752686315" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1598761372590" />
   </component>
 </project>

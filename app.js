@@ -13,6 +13,8 @@ const path = require('path');
 
 // Our error handler
 const errorHandler = require('./_helpers/error-handler');
+const config = require('./config.json');
+
 
 app.use('/', express.static(path.join('./dist/SmashDB')));
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -25,9 +27,10 @@ app.use('/fighter', require('./routes/fighter.router'));
 app.use('/lbcard', require('./routes/leaderboardcard.router'));
 app.use(errorHandler);
 
+process.env.NODE_ENV = config.environment;
 
 // start server
-const port = process.env.NODE_ENV === 'production' ? (process.env.PORT || 80) : (process.env.PORT || 80);
+const port = process.env.NODE_ENV === 'production' ? (process.env.PORT || 80) : 3030;
 app.listen(port, function () {
   console.log('Server listening on port ' + port);
 });
