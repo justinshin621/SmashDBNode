@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Deployment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60959cf2-3964-4194-aa78-815bea6f5408" name="Default Changelist" comment="Deployment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW5node" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,7 +86,7 @@
       <workItem from="1597856255236" duration="1782000" />
       <workItem from="1598407424350" duration="2324000" />
       <workItem from="1598565492701" duration="5777000" />
-      <workItem from="1598735907928" duration="1255000" />
+      <workItem from="1598735907928" duration="1584000" />
     </task>
     <task id="LOCAL-00001" summary="Changing models">
       <created>1597427909552</created>
@@ -223,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598571716705</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Deployment">
+      <created>1598752267029</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1598752267029</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,10 +271,10 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="93" y="93" width="1350" height="734" key="DiffContextDialog/0.0.1536.920@0.0.1536.920" timestamp="1597506901777" />
-    <state x="549" y="215" key="FileChooserDialogImpl" timestamp="1598565590035">
+    <state x="549" y="215" key="FileChooserDialogImpl" timestamp="1598752187707">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1598565590035" />
+    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1598752187707" />
     <state x="610" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1597551208271" />
     <state x="634" y="358" key="Github.ShareDialog" timestamp="1597359915175">
       <screen x="0" y="0" width="1536" height="920" />
@@ -295,9 +300,9 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1515" height="242" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597373961355" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598571721590">
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598752271144">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1598571721590" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1598752271144" />
   </component>
 </project>
