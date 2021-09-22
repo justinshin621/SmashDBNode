@@ -1,8 +1,9 @@
 # SmashDB
 
 [Project Website](http://ec2-18-191-36-137.us-east-2.compute.amazonaws.com/login)
-Demo Login Info:
-Username: Test
+
+Demo Login Info: </br>
+Username: test </br>
 Password: 123456
 
 ![](/images/GSPs.PNG)
