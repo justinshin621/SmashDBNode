@@ -1,6 +1,6 @@
 # SmashDB
 
-[Project Website](http://ec2-18-221-63-3.us-east-2.compute.amazonaws.com/login)
+[Project Website](http://ec2-3-14-83-90.us-east-2.compute.amazonaws.com/login)
 
 Demo Login Info: </br>
 Username: test </br>
