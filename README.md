@@ -4,7 +4,8 @@
 
 Demo Login Info: </br>
 Username: test </br>
-Password: 123456
+Password: 123456 </br>
+(Making an account in registration and logging in is easy as well)
 
 ![](/images/GSPs.PNG)
 
